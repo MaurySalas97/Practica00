@@ -1,3 +1,18 @@
+html {
+    font-family: 'Montserrat', sans-serif;
+}
+body {
+    margin: 0px;
+    background-color: #efefef
+    ;
+}
+.inicio {
+text-align: center;
+
+}
+.contenido {
+    
+}
 .post {
     text-align: center;
     padding: 50px;
@@ -8,7 +23,14 @@
 #titulo {
 text-align: center;
 background-color: lightslategrey;
+color: white;
+padding: 3rem 2rem;
 }
+
+header h1 {
+    font-size: 2rem;
+}
+
 
 ul {
     list-style: none;

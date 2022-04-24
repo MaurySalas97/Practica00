@@ -1,0 +1,17 @@
+.post {
+    text-align: center;
+    padding: 50px;
+    border-style: solid;
+    border-color: blueviolet;
+    background-color: grey;
+}
+#titulo {
+text-align: center;
+background-color: lightslategrey;
+}
+
+ul {
+    list-style: none;
+    text-align: right;
+    padding-left: 0px;
+}
